@@ -217,7 +217,7 @@ DEPENDENCIES
   nokogiri (= 1.5.9)
   pg (= 0.17.0)
   rails
-  rails_12factor (= 0.0.2)
+  rails_12factor
   rb-fsevent (= 0.4.3.1)
   rspec-rails (= 2.9.0)
   sass-rails (= 3.2.4)
